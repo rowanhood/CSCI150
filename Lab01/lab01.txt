@@ -1,0 +1,2 @@
+Hello!
+I'm adding information to text file for homework 1
