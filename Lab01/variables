@@ -1,0 +1,13 @@
+#!/bin/bash
+#assign the variables
+cat variables
+$name "Sebastian"
+$home_type "house"
+$LOCATION "Utrecht"
+$_partner_name "Sanne"
+$animalTypes "gecko and hamster"
+
+#Print the story
+
+echo "$(name) lives in a $(home_type) in $(LOCATION), together with $(_partner_name) and their two pets: a $(animalTypes)."
+
